@@ -6,6 +6,7 @@
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Hotfix (an important change which fixes an issue)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Refactor
 - [ ] Staging Release
 - [ ] Production Release
 
